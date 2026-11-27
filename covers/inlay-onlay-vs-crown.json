@@ -9,7 +9,7 @@
    "width": 29,
    "align": "center",
    "color": "#52514e",
-   "size": 4.7,
+   "size": 4.4,
    "weight": 800,
    "lh": 1.15,
    "text": {
@@ -18,7 +18,8 @@
     "pl": "Wkład",
     "ro": "Inlay",
     "ru": "Вкладка"
-   }
+   },
+   "rotate": -4
   },
   {
    "left": 34.4,
@@ -26,7 +27,7 @@
    "width": 27,
    "align": "center",
    "color": "#52514e",
-   "size": 4.7,
+   "size": 4.4,
    "weight": 800,
    "lh": 1.15,
    "text": {
@@ -35,7 +36,8 @@
     "pl": "Nakład",
     "ro": "Onlay",
     "ru": "Накладка"
-   }
+   },
+   "rotate": 6
   },
   {
    "left": 64.5,
@@ -43,7 +45,7 @@
    "width": 29,
    "align": "center",
    "color": "#52514e",
-   "size": 4.7,
+   "size": 4.4,
    "weight": 800,
    "lh": 1.15,
    "text": {
@@ -52,7 +54,8 @@
     "pl": "Korona",
     "ro": "Coroană",
     "ru": "Коронка"
-   }
+   },
+   "rotate": 0
   }
  ]
 }

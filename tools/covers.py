@@ -38,6 +38,7 @@ def box_style(b):
          f"line-height:{b.get('lh',1.25)}", f"letter-spacing:{b.get('spacing',0)}em"]
     if b.get("upper"): s.append("text-transform:uppercase")
     if b.get("italic"): s.append("font-style:italic")
+    if b.get("rotate"): s.append(f"transform:rotate({b['rotate']}deg);transform-origin:center")
     if b.get("bg"): s.append(f"background:{b['bg']};padding:.4em .6em;border-radius:.3em")
     if b.get("font") and b["font"] != "Mulish": s.append(f"font-family:{b['font']},Mulish,Arial,sans-serif")
     return ";".join(s)
