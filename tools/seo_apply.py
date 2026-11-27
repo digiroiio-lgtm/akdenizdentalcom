@@ -124,6 +124,12 @@ for rel in pages:
     t = t.replace('href="research-style-1.html"', 'href="clinic-gallery.html"').replace('href="research-style-1"', 'href="clinic-gallery"')
     if lang in ("pl", "ro"):
         t = re.sub(r'href="what-are-screwless-dental-implants-screw-implant-or-bonding(\.html)?"', r'href="dental-implants\1"', t)
+    # live chat widget loaded via broken relative path on some pages
+    t = re.sub(r'(src=")(?:\.\./)+code\.jivosite\.com/', r'\1//code.jivosite.com/', t)
+    # thank-you pages: keep out of the index
+    if slug == "thank-you":
+        t = re.sub(r'\s*<meta\s+name="robots"[^>]*>', "", t)
+        t = t.replace("</title>", '</title>\n\t<meta name="robots" content="noindex, follow">', 1)
     # broken mailto
     t = t.replace('href="info@akdenizdental.com"', 'href="mailto:info@akdenizdental.com"')
     # ---- structured data ----
@@ -182,6 +188,7 @@ out = ['<?xml version="1.0" encoding="UTF-8"?>',
        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
 for rel in pages:
     lang, slug = split(rel); group = by_slug[slug]
+    if slug == "thank-you": continue
     out.append(f"  <url>\n    <loc>{url_of(rel)}</loc>\n    <lastmod>{TODAY}</lastmod>")
     for l in LANGS:
         if l in group:
