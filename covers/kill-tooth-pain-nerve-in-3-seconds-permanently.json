@@ -1,0 +1,9 @@
+{
+ "src": "images/blog/kill-tooth-pain-nerve-in-3-seconds-permanently.jpg",
+ "clean": "images/blog/clean/kill-tooth-pain-nerve-in-3-seconds-permanently.webp",
+ "height": 530,
+ "boxes": [
+  {"left": 55, "top": 26, "width": 41, "align": "right", "color": "#ffffff", "size": 3.4, "weight": 800, "upper": true, "spacing": 0.18, "lh": 1.6,
+   "text": {"en": "Kill tooth pain nerve in 3 seconds permanently?", "de": "Zahnnervschmerz in 3 Sekunden dauerhaft abtöten?", "pl": "Ból nerwu zęba na zawsze w 3 sekundy?", "ro": "Durerea nervului dentar oprită în 3 secunde?", "ru": "Убить боль зубного нерва за 3 секунды?"}}
+ ]
+}
