@@ -30,6 +30,11 @@ RENAMES = {
     "images/blog/clean/inline-all-on-6-dental-implnats-before-after-turkey-1.webp": T + "all-on-6-full-arch-before-after-case-1.webp",
     "images/blog/clean/inline-all-on-6-dental-implnats-before-after-turkey-2.webp": T + "all-on-6-full-arch-before-after-case-2.webp",
     "images/blog/clean/inline-all-on-4-diagram.webp": T + "all-on-4-dental-implants-diagram.webp",
+    "images/blog/clean/inline-parts-of-dental-implants.webp": T + "parts-of-a-dental-implant.webp",
+    "images/blog/clean/inline-types-of-dental-implants.webp": T + "types-of-dental-implants.webp",
+    "images/blog/clean/inline-dental-implants-abutment.webp": T + "dental-implant-abutment.webp",
+    "images/blog/clean/inline-dental-implants-body.webp": T + "dental-implant-body.webp",
+    "images/blog/clean/inline-emax-laminate-veneer-diagram.webp": T + "e-max-laminate-veneer-diagram.webp",
     # generic theme names
     "images/homepage-1/team/team-1.jpg": "images/homepage-1/team/dr-ali-burak-bozkurt.jpg",
     "images/homepage-1/team/team-2.jpg": "images/homepage-1/team/dr-mustafa-akca.jpg",

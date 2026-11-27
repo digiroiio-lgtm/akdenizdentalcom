@@ -1,0 +1,26 @@
+{
+ "src": "images/treatments/dental-implant-abutment.jpg",
+ "clean": "images/treatments/dental-implant-abutment.webp",
+ "height": 540,
+ "boxes": [
+  {
+   "left": 3,
+   "top": 3.5,
+   "width": 90.6,
+   "align": "center",
+   "color": "#3f70a8",
+   "size": 8.0,
+   "weight": 900,
+   "upper": true,
+   "lh": 1.0,
+   "spacing": 0,
+   "text": {
+    "en": "Abutment",
+    "de": "Abutment",
+    "pl": "Łącznik",
+    "ro": "Bont protetic",
+    "ru": "Абатмент"
+   }
+  }
+ ]
+}

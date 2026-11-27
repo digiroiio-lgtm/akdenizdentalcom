@@ -1,0 +1,186 @@
+{
+ "src": "images/emax-laminate-veneer-diagram.webp",
+ "clean": "images/treatments/e-max-laminate-veneer-diagram.webp",
+ "height": 450,
+ "boxes": [
+  {
+   "left": 4,
+   "top": 22.5,
+   "width": 40,
+   "color": "#b6b7f3",
+   "size": 2.1,
+   "weight": 400,
+   "upper": true,
+   "lh": 1.0,
+   "text": {
+    "en": "Akdeniz Dental Clinic",
+    "de": "Akdeniz Dental Clinic",
+    "pl": "Akdeniz Dental Clinic",
+    "ro": "Akdeniz Dental Clinic",
+    "ru": "Akdeniz Dental Clinic"
+   }
+  },
+  {
+   "left": 4,
+   "top": 30.4,
+   "width": 50,
+   "color": "#ffffff",
+   "size": 4.6,
+   "weight": 700,
+   "lh": 1.0,
+   "text": {
+    "en": "Emax laminate\nveneers",
+    "de": "Emax-Laminat-\nVeneers",
+    "pl": "Licówki laminowane\nEmax",
+    "ro": "Fațete laminate\nEmax",
+    "ru": "Виниры-ламинаты\nEmax"
+   }
+  },
+  {
+   "left": 4,
+   "top": 54.8,
+   "width": 40,
+   "color": "#e1dfff",
+   "size": 2.4,
+   "weight": 400,
+   "lh": 1.0,
+   "text": {
+    "en": "Antalya, Turkey",
+    "de": "Antalya, Türkei",
+    "pl": "Antalya, Turcja",
+    "ro": "Antalya, Turcia",
+    "ru": "Анталья, Турция"
+   }
+  },
+  {
+   "left": 84.0,
+   "top": 14.5,
+   "width": 15.8,
+   "color": "#ffffff",
+   "size": 1.55,
+   "weight": 700,
+   "lh": 1.2,
+   "text": {
+    "en": "E-max veneer",
+    "de": "E-max-Veneer",
+    "pl": "Licówka E-max",
+    "ro": "Fațetă E-max",
+    "ru": "Винир E-max"
+   }
+  },
+  {
+   "left": 84.0,
+   "top": 18.1,
+   "width": 15.8,
+   "color": "#b1d0ff",
+   "size": 1.42,
+   "weight": 400,
+   "lh": 1.2,
+   "text": {
+    "en": "Lithium disilicate shell",
+    "de": "Schale aus Lithiumdisilikat",
+    "pl": "Powłoka z dwukrzemianu litu",
+    "ro": "Înveliș din disilicat de litiu",
+    "ru": "Оболочка из дисиликата лития"
+   }
+  },
+  {
+   "left": 84.0,
+   "top": 36.7,
+   "width": 15.8,
+   "color": "#ffffff",
+   "size": 1.55,
+   "weight": 700,
+   "lh": 1.2,
+   "text": {
+    "en": "0.3-0.5 mm",
+    "de": "0,3–0,5 mm",
+    "pl": "0,3–0,5 mm",
+    "ro": "0,3–0,5 mm",
+    "ru": "0,3–0,5 мм"
+   }
+  },
+  {
+   "left": 84.0,
+   "top": 40.3,
+   "width": 15.8,
+   "color": "#b1d0ff",
+   "size": 1.42,
+   "weight": 400,
+   "lh": 1.2,
+   "text": {
+    "en": "Thin ceramic shell",
+    "de": "Dünne Keramikschale",
+    "pl": "Cienka powłoka ceramiczna",
+    "ro": "Înveliș ceramic subțire",
+    "ru": "Тонкая керамическая оболочка"
+   }
+  },
+  {
+   "left": 84.0,
+   "top": 58.9,
+   "width": 15.8,
+   "color": "#ffffff",
+   "size": 1.55,
+   "weight": 700,
+   "lh": 1.2,
+   "text": {
+    "en": "Bonded to enamel",
+    "de": "Haftet am Schmelz",
+    "pl": "Klejona do szkliwa",
+    "ro": "Lipită pe smalț",
+    "ru": "Приклеен к эмали"
+   }
+  },
+  {
+   "left": 84.0,
+   "top": 62.5,
+   "width": 15.8,
+   "color": "#b1d0ff",
+   "size": 1.42,
+   "weight": 400,
+   "lh": 1.2,
+   "text": {
+    "en": "Minimal preparation",
+    "de": "Minimale Präparation",
+    "pl": "Minimalne szlifowanie",
+    "ro": "Preparare minimă",
+    "ru": "Минимальная обточка"
+   }
+  },
+  {
+   "left": 25,
+   "top": 70.1,
+   "width": 25.25,
+   "align": "right",
+   "color": "#ffffff",
+   "size": 1.55,
+   "weight": 700,
+   "lh": 1.2,
+   "text": {
+    "en": "Natural tooth",
+    "de": "Natürlicher Zahn",
+    "pl": "Naturalny ząb",
+    "ro": "Dinte natural",
+    "ru": "Естественный зуб"
+   }
+  },
+  {
+   "left": 25,
+   "top": 73.6,
+   "width": 25.25,
+   "align": "right",
+   "color": "#c0caff",
+   "size": 1.42,
+   "weight": 400,
+   "lh": 1.2,
+   "text": {
+    "en": "Stays alive underneath",
+    "de": "Bleibt darunter vital",
+    "pl": "Pod spodem pozostaje żywy",
+    "ro": "Rămâne viu dedesubt",
+    "ru": "Остаётся живым под виниром"
+   }
+  }
+ ]
+}
