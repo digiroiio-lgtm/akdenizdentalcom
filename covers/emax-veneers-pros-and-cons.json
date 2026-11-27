@@ -5,31 +5,33 @@
  "boxes": [
   {
    "left": 3.9,
-   "top": 6.8,
+   "top": 7.2,
    "width": 90,
    "align": "center",
    "color": "#000000",
-   "size": 5.6,
+   "size": 6.1,
    "weight": 400,
    "lh": 1.2,
+   "spacing": -0.02,
    "font": "Arial",
    "text": {
     "en": "Emax Veneers Pros and Cons",
     "de": "E-max-Veneers: Pro und Contra",
     "pl": "Licówki E-max: zalety i wady",
     "ro": "Fațete E-max: pro și contra",
-    "ru": "Виниры E-max: плюсы и минусы"
+    "ru": "Виниры E-max: за и против"
    }
   },
   {
    "left": 5,
-   "top": 83.8,
+   "top": 84.4,
    "width": 90.6,
    "align": "center",
    "color": "#000000",
-   "size": 5.6,
+   "size": 6.1,
    "weight": 400,
    "lh": 1.2,
+   "spacing": -0.02,
    "font": "Arial",
    "text": {
     "en": "Thinner and stronger",
