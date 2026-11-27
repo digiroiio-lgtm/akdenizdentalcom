@@ -1,0 +1,306 @@
+/**
+ * Bodoni Moda Hero Slider Typography & Layout System
+ * Specifically scoped to .pbmit-slider-area and #rev_slider_1_1_wrapper
+ * Strict isolation: Does NOT affect site header, navbar, footer, or other pages.
+ *
+ * Fixes:
+ * 1. Full-length slide visual display: Proportional 550px height matching 1900x850 aspect ratio (2.235)
+ * 2. Header overlay clipping cleared via responsive padding-top on .pbmit-slider-area
+ * 3. Left-anchored background orientation ensuring woman & Polaroid cards never collide with text
+ * 4. Structured two-line flex headline (<span class="slider-title-line1"> & <span class="slider-title-line2">)
+ * 5. Bodoni Moda Cyrillic & Latin-ext support across RU, TR, EN, DE, PL, RO
+ * 6. Clean single CTA layout matching target design without button overcrowding
+ */
+
+/* 1. Google Fonts Import with Cyrillic, Latin and Latin-ext subsets */
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&subset=latin,latin-ext,cyrillic&display=swap');
+
+/* 2. Direct Cyrillic Polyfill into 'Bodoni Moda' family name */
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 600 900;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDTbtPY_Q.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: italic;
+  font-weight: 600 900;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtXA-W2r.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* 3. Slider Container Spacing - Clear Header Overlay */
+.pbmit-slider-area {
+  padding-top: 155px !important;
+  position: relative !important;
+  box-sizing: border-box !important;
+}
+
+@media (max-width: 1200px) {
+  .pbmit-slider-area {
+    padding-top: 140px !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .pbmit-slider-area {
+    padding-top: 95px !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .pbmit-slider-area {
+    padding-top: 85px !important;
+  }
+}
+
+/* 4. Slide Visual Full-Fit & Alignment (Prevents cropping left text zone) */
+.pbmit-slider-area rs-sbg,
+.pbmit-slider-area rs-sbg canvas,
+.pbmit-slider-area .rev-slidebg {
+  object-position: left center !important;
+}
+
+/* 5. Slider Design Tokens */
+.pbmit-slider-area,
+#rev_slider_1_1_wrapper {
+  --slider-font-bodoni: 'Bodoni Moda', 'Playfair Display', Georgia, serif;
+  --slider-font-sans: 'Mulish', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --slider-color-primary: #1860ae;
+  --slider-color-heading: #130947;
+  --slider-color-body: #556987;
+  --slider-color-tagline: #718096;
+}
+
+/* 6. Prevent Revolution Slider from clipping flexible content */
+.pbmit-slider-area .slider-unified-content-layer,
+.pbmit-slider-area #slider-7-slide-13-layer-content,
+#rev_slider_1_1 .slider-unified-content-layer {
+  overflow: visible !important;
+  height: auto !important;
+  min-height: auto !important;
+  max-height: none !important;
+  white-space: normal !important;
+}
+
+/* 7. Unified Flex Column Container - strictly keeps content within left column */
+.pbmit-slider-area .slider-content-flow {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  justify-content: flex-start !important;
+  text-align: left !important;
+  max-width: 420px !important;
+  width: 100% !important;
+  height: auto !important;
+  min-height: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* 8. Eyebrow ("DENTAL CARE IN ANTALYA") */
+.pbmit-slider-area .slider-hero-eyebrow {
+  margin: 0 0 12px 0 !important;
+  padding: 0 !important;
+  font-family: var(--slider-font-sans) !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+  text-transform: uppercase !important;
+  color: var(--slider-color-primary) !important;
+  letter-spacing: 0.16em !important;
+  line-height: 1.25 !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+/* 9. Bodoni Moda Headline - Structured Two-Line Block Layout */
+.pbmit-slider-area .slider-hero-title {
+  margin: 0 0 16px 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  gap: 4px !important;
+  width: 100% !important;
+}
+
+/* Headline Line 1 (Normal / Upright Variant) */
+.pbmit-slider-area .slider-hero-title .slider-title-line1 {
+  display: block !important;
+  font-family: var(--slider-font-bodoni) !important;
+  font-size: 44px !important;
+  line-height: 1.15 !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+  color: var(--slider-color-heading) !important;
+  letter-spacing: -0.02em !important;
+  white-space: nowrap !important;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Headline Line 2 (Italic Accent Variant) */
+.pbmit-slider-area .slider-hero-title .slider-title-line2 {
+  display: block !important;
+  font-family: var(--slider-font-bodoni) !important;
+  font-size: 44px !important;
+  line-height: 1.15 !important;
+  font-weight: 700 !important;
+  font-style: italic !important;
+  color: var(--slider-color-primary) !important;
+  letter-spacing: -0.01em !important;
+  white-space: nowrap !important;
+  padding: 0 0.15em 0 0 !important;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  margin: 0 !important;
+}
+
+.pbmit-slider-area .slider-hero-title .slider-title-line2 em,
+.pbmit-slider-area .slider-hero-title .slider-title-italic {
+  font-family: inherit !important;
+  font-style: inherit !important;
+  font-weight: inherit !important;
+  color: inherit !important;
+  display: inline !important;
+}
+
+/* 10. Description Paragraph */
+.pbmit-slider-area .slider-hero-desc {
+  margin: 0 0 20px 0 !important;
+  padding: 0 !important;
+  font-family: var(--slider-font-sans) !important;
+  font-size: 15px !important;
+  color: var(--slider-color-body) !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  line-height: 1.55 !important;
+  max-width: 390px !important;
+  white-space: normal !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+/* 11. Action Buttons */
+.pbmit-slider-area .slider-btn-group {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 16px !important;
+  flex-wrap: wrap !important;
+  width: 100% !important;
+}
+
+/* Primary Pill Button */
+.pbmit-slider-area .slider-btn-primary {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 10px !important;
+  background-color: var(--slider-color-primary) !important;
+  color: #ffffff !important;
+  font-family: var(--slider-font-sans) !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  padding: 12px 26px !important;
+  border-radius: 9999px !important;
+  text-decoration: none !important;
+  box-shadow: 0 4px 14px rgba(24, 96, 174, 0.28) !important;
+  transition: all 0.25s ease !important;
+  line-height: 1.2 !important;
+  white-space: nowrap !important;
+  cursor: pointer !important;
+}
+
+.pbmit-slider-area .slider-btn-primary:hover {
+  background-color: var(--slider-color-heading) !important;
+  color: #ffffff !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(19, 9, 71, 0.32) !important;
+}
+
+.pbmit-slider-area .slider-btn-primary .slider-btn-arrow {
+  transition: transform 0.25s ease !important;
+  flex-shrink: 0 !important;
+}
+
+.pbmit-slider-area .slider-btn-primary:hover .slider-btn-arrow {
+  transform: translateX(4px) !important;
+}
+
+/* Streamlined layout: Hide secondary button and tagline */
+.pbmit-slider-area .slider-btn-secondary,
+.pbmit-slider-area .slider-patient-tagline {
+  display: none !important;
+}
+
+/* 12. Responsive Breakpoint Adjustments */
+@media (max-width: 1200px) {
+  .pbmit-slider-area .slider-content-flow {
+    max-width: 380px !important;
+  }
+  .pbmit-slider-area .slider-hero-title .slider-title-line1,
+  .pbmit-slider-area .slider-hero-title .slider-title-line2 {
+    font-size: 38px !important;
+  }
+  .pbmit-slider-area .slider-hero-desc {
+    font-size: 14px !important;
+    max-width: 360px !important;
+    margin-bottom: 18px !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .pbmit-slider-area .slider-content-flow {
+    max-width: 330px !important;
+  }
+  .pbmit-slider-area .slider-hero-title .slider-title-line1,
+  .pbmit-slider-area .slider-hero-title .slider-title-line2 {
+    font-size: 30px !important;
+    white-space: normal !important;
+  }
+  .pbmit-slider-area .slider-hero-desc {
+    font-size: 13px !important;
+    margin-bottom: 16px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .pbmit-slider-area .slider-content-flow {
+    max-width: 270px !important;
+  }
+  .pbmit-slider-area .slider-hero-eyebrow {
+    font-size: 11px !important;
+    letter-spacing: 0.12em !important;
+    margin-bottom: 6px !important;
+  }
+  .pbmit-slider-area .slider-hero-title {
+    margin-bottom: 10px !important;
+    gap: 3px !important;
+  }
+  .pbmit-slider-area .slider-hero-title .slider-title-line1,
+  .pbmit-slider-area .slider-hero-title .slider-title-line2 {
+    font-size: 22px !important;
+    line-height: 1.2 !important;
+    white-space: normal !important;
+  }
+  .pbmit-slider-area .slider-hero-desc {
+    font-size: 12px !important;
+    line-height: 1.4 !important;
+    margin-bottom: 14px !important;
+  }
+  .pbmit-slider-area .slider-btn-primary {
+    padding: 9px 18px !important;
+    font-size: 12px !important;
+  }
+}

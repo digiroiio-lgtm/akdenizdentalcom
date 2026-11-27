@@ -1,0 +1,43 @@
+{
+ "src": "images/treatments/types-of-dental-implants.jpg",
+ "clean": "images/treatments/types-of-dental-implants.webp",
+ "height": 540,
+ "boxes": [
+  {
+   "left": 2.2,
+   "top": 1.8,
+   "width": 70,
+   "color": "#3d6fa7",
+   "size": 6.0,
+   "weight": 900,
+   "upper": true,
+   "lh": 1.0,
+   "spacing": 0,
+   "text": {
+    "en": "Types of",
+    "de": "Arten von",
+    "pl": "Rodzaje",
+    "ro": "Tipuri de",
+    "ru": "Виды"
+   }
+  },
+  {
+   "left": 2.2,
+   "top": 10.7,
+   "width": 96,
+   "color": "#235a94",
+   "size": 7.2,
+   "weight": 900,
+   "upper": true,
+   "lh": 1.0,
+   "spacing": 0,
+   "text": {
+    "en": "Dental implants",
+    "de": "Zahnimplantaten",
+    "pl": "implantów zębowych",
+    "ro": "implanturi dentare",
+    "ru": "зубных имплантатов"
+   }
+  }
+ ]
+}

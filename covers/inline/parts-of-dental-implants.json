@@ -1,0 +1,125 @@
+{
+ "src": "images/treatments/parts-of-a-dental-implant.jpg",
+ "clean": "images/treatments/parts-of-a-dental-implant.webp",
+ "height": 540,
+ "boxes": [
+  {
+   "left": 1.9,
+   "top": 1.8,
+   "width": 70,
+   "color": "#3f6fa5",
+   "size": 6.0,
+   "weight": 900,
+   "upper": true,
+   "lh": 1.0,
+   "spacing": 0,
+   "text": {
+    "en": "Parts of a",
+    "de": "Aufbau eines",
+    "pl": "Budowa",
+    "ro": "Componentele unui",
+    "ru": "Строение"
+   }
+  },
+  {
+   "left": 1.9,
+   "top": 10.5,
+   "width": 96,
+   "color": "#255a92",
+   "size": 7.0,
+   "weight": 900,
+   "upper": true,
+   "lh": 1.0,
+   "spacing": 0,
+   "text": {
+    "en": "Dental implant",
+    "de": "Zahnimplantats",
+    "pl": "implantu zębowego",
+    "ro": "implant dentar",
+    "ru": "зубного имплантата"
+   }
+  },
+  {
+   "left": 30,
+   "top": 37.0,
+   "width": 32.9,
+   "align": "right",
+   "color": "#ffffff",
+   "size": 2.95,
+   "weight": 500,
+   "lh": 1.08,
+   "text": {
+    "en": "Natural\nCrown",
+    "de": "Natürliche\nKrone",
+    "pl": "Korona\nnaturalna",
+    "ro": "Coroană\nnaturală",
+    "ru": "Естественная\nкоронка"
+   }
+  },
+  {
+   "left": 30,
+   "top": 54.6,
+   "width": 28.5,
+   "align": "right",
+   "color": "#ffffff",
+   "size": 2.95,
+   "weight": 500,
+   "lh": 1.08,
+   "text": {
+    "en": "Root",
+    "de": "Wurzel",
+    "pl": "Korzeń",
+    "ro": "Rădăcină",
+    "ru": "Корень"
+   }
+  },
+  {
+   "left": 81.9,
+   "top": 37.0,
+   "width": 17.8,
+   "color": "#ffffff",
+   "size": 2.95,
+   "weight": 500,
+   "lh": 1.08,
+   "text": {
+    "en": "Implant\nCrown",
+    "de": "Implantat-\nkrone",
+    "pl": "Korona na\nimplancie",
+    "ro": "Coroană pe\nimplant",
+    "ru": "Коронка на\nимплантате"
+   }
+  },
+  {
+   "left": 80.9,
+   "top": 51.6,
+   "width": 18.8,
+   "color": "#ffffff",
+   "size": 2.95,
+   "weight": 500,
+   "lh": 1.08,
+   "text": {
+    "en": "Abutment",
+    "de": "Abutment",
+    "pl": "Łącznik",
+    "ro": "Bont\nprotetic",
+    "ru": "Абатмент"
+   }
+  },
+  {
+   "left": 80.9,
+   "top": 62.9,
+   "width": 18.8,
+   "color": "#ffffff",
+   "size": 2.95,
+   "weight": 500,
+   "lh": 1.08,
+   "text": {
+    "en": "Implant",
+    "de": "Implantat",
+    "pl": "Implant",
+    "ro": "Implant",
+    "ru": "Имплантат"
+   }
+  }
+ ]
+}

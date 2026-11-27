@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/replace-missing-teeth-antalya-turkey.webp",
+ "clean": "images/blog/clean/replace-missing-teeth-antalya-turkey.webp",
+ "height": 450,
+ "boxes": [
+  {
+   "left": 52.0,
+   "top": 12.68,
+   "width": 43.5,
+   "size": 6.0,
+   "lh": 1.07,
+   "align": "right",
+   "color": "#1b57a0",
+   "weight": 800,
+   "text": {
+    "en": "Best Option\nto Replace\nMissing Teeth",
+    "de": "Beste Lösung\nfür fehlende\nZähne",
+    "pl": "Jak najlepiej\nuzupełnić\nbraki zębowe",
+    "ro": "Cea mai bună\nsoluție pentru\ndinții lipsă",
+    "ru": "Как лучше\nвосполнить\nпотерю зубов"
+   }
+  },
+  {
+   "left": 52.0,
+   "top": 48.67,
+   "width": 43.5,
+   "size": 3.81,
+   "lh": 1.18,
+   "align": "right",
+   "color": "#919dac",
+   "weight": 600,
+   "text": {
+    "en": "In Antalya,\nTurkey",
+    "de": "In Antalya,\nTürkei",
+    "pl": "W Antalyi,\nTurcja",
+    "ro": "În Antalya,\nTurcia",
+    "ru": "В Анталии,\nТурция"
+   }
+  }
+ ]
+}

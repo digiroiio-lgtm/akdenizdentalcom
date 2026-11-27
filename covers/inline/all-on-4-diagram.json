@@ -1,0 +1,95 @@
+{
+  "src": "images/treatments/all-on-4-dental-implants-diagram.jpg",
+  "clean": "images/treatments/all-on-4-dental-implants-diagram.webp",
+  "height": 530,
+  "boxes": [
+    {
+      "left": 5.5,
+      "top": 25.8,
+      "width": 30,
+      "align": "left",
+      "color": "#1f5fae",
+      "size": 1.75,
+      "weight": 800,
+      "upper": true,
+      "spacing": 0.24,
+      "lh": 1.2,
+      "text": {
+        "en": "Antalya · Turkey",
+        "de": "Antalya · Türkei",
+        "pl": "Antalya · Turcja",
+        "ro": "Antalya · Turcia",
+        "ru": "Анталья · Турция"
+      }
+    },
+    {
+      "left": 5.2,
+      "top": 31.0,
+      "width": 34,
+      "align": "left",
+      "color": "#15114a",
+      "size": 7.5,
+      "weight": 800,
+      "spacing": -0.01,
+      "lh": 1.0,
+      "text": {
+        "en": "All-on-4",
+        "de": "All-on-4",
+        "pl": "All-on-4",
+        "ro": "All-on-4",
+        "ru": "All-on-4"
+      }
+    },
+    {
+      "left": 5.4,
+      "top": 43.4,
+      "width": 38,
+      "align": "left",
+      "color": "#15114a",
+      "size": 3.15,
+      "weight": 600,
+      "lh": 1.15,
+      "text": {
+        "en": "Dental Implants",
+        "de": "Zahnimplantate",
+        "pl": "Implanty zębowe",
+        "ro": "Implanturi dentare",
+        "ru": "Зубные имплантаты"
+      }
+    },
+    {
+      "left": 10.7,
+      "top": 59.6,
+      "width": 25,
+      "align": "left",
+      "color": "#3b4252",
+      "size": 1.95,
+      "weight": 500,
+      "lh": 1.2,
+      "text": {
+        "en": "implants per jaw",
+        "de": "Implantate pro Kiefer",
+        "pl": "implanty na szczękę",
+        "ro": "implanturi pe maxilar",
+        "ru": "имплантата на челюсть"
+      }
+    },
+    {
+      "left": 10.7,
+      "top": 67.5,
+      "width": 25,
+      "align": "left",
+      "color": "#3b4252",
+      "size": 1.95,
+      "weight": 500,
+      "lh": 1.2,
+      "text": {
+        "en": "fixed full-arch bridge",
+        "de": "festsitzende Brücke für den ganzen Kiefer",
+        "pl": "stały most na cały łuk zębowy",
+        "ro": "punte fixă pe întreaga arcadă",
+        "ru": "несъёмный мост на всю челюсть"
+      }
+    }
+  ]
+}

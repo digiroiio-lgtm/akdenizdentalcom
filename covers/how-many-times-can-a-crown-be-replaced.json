@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/how-many-times-can-a-crown-be-replaced.webp",
+ "clean": "images/blog/clean/how-many-times-can-a-crown-be-replaced.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 5.4,
+   "top": 18.1,
+   "width": 38,
+   "align": "left",
+   "color": "#150a38",
+   "size": 5.0,
+   "weight": 800,
+   "lh": 1.04,
+   "text": {
+    "en": "How Many\nTimes Can a\nCrown Be\nReplaced?",
+    "de": "Wie oft kann\neine Krone\nersetzt\nwerden?",
+    "pl": "Ile razy\nmożna\nwymienić\nkoronę?",
+    "ro": "De câte ori\nse poate\nînlocui\no coroană?",
+    "ru": "Сколько раз\nможно\nзаменить\nкоронку?"
+   }
+  },
+  {
+   "left": 5.6,
+   "top": 58.1,
+   "width": 36,
+   "align": "left",
+   "color": "#2d3034",
+   "size": 1.9,
+   "weight": 500,
+   "lh": 1.6,
+   "text": {
+    "en": "It depends on how much healthy tooth is left underneath.",
+    "de": "Das hängt davon ab, wie viel gesunde Zahnsubstanz darunter übrig ist.",
+    "pl": "To zależy od tego, ile zdrowej tkanki zęba zostało pod spodem.",
+    "ro": "Depinde de cât țesut dentar sănătos a rămas dedesubt.",
+    "ru": "Зависит от того, сколько здоровой ткани зуба осталось под ней."
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+#maske {
+    position:absolute;
+    z-index:9000;
+    background-color:#000;
+    display:none;
+  }  
+  #popup .window {
+
+    position: fixed;
+    flex-direction: column;
+    left: auto;
+    justify-content: center;
+    top: auto;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    padding: 40px;
+    text-align: center;
+    display: flex;
+    background-color: #00000061;
+    align-items: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+  }
+ 
+   
+  #popup_icerik{
+  font-family: "Segoe UI", sans-serif;
+  font-size: 12pt;
+  }
+  #popupfoot{
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16pt;
+  background-color: #255b9a;
+  }
+  #popupfoot a{
+  text-decoration: none;
+  padding:5px 10px 5px 10px;
+  color: #FFF;
+  }
+  .agree:hover{
+    background-color: #000;
+    color: #FFF;
+  }
+  .popupoption:hover{
+  background-color:#000;
+  color: #FFF;
+  padding:5px;
+  }
+  .popupoption2:hover{
+  color: black;
+  }

@@ -1,0 +1,307 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "",
+  "outputDirectory": "site",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/de/research-style-1",
+      "destination": "/de/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/pl/research-style-1",
+      "destination": "/pl/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/ro/research-style-1",
+      "destination": "/ro/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/ru/research-style-1",
+      "destination": "/ru/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-4-dental-implants-before-and-after-turkey-1.jpg",
+      "destination": "/images/treatments/all-on-4-full-arch-before-after-case-1.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-4-dental-implants-before-and-after-turkey-2.jpg",
+      "destination": "/images/treatments/all-on-4-full-arch-before-after-case-2.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-4-dental-implants-before-and-after-turkey-3.jpg",
+      "destination": "/images/treatments/all-on-4-full-arch-before-after-case-3.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-4-dental-implnats-before-after-turkey-4.jpg",
+      "destination": "/images/treatments/all-on-4-full-arch-before-after-case-4.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-6-dental-implnats-before-after-turkey-1.jpg",
+      "destination": "/images/treatments/all-on-6-full-arch-before-after-case-1.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-6-dental-implnats-before-after-turkey-2.jpg",
+      "destination": "/images/treatments/all-on-6-full-arch-before-after-case-2.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/all-on-4-dental-implants-turkey.jpg",
+      "destination": "/images/treatments/all-on-4-dental-implants-diagram.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/dental-implant-crown.jpg",
+      "destination": "/images/treatments/dental-implant-crown.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/dental-implants-abutment-screw.jpg",
+      "destination": "/images/treatments/dental-implant-abutment-screw.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/dental-implants-abutment.jpg",
+      "destination": "/images/treatments/dental-implant-abutment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/dental-implants-body.jpg",
+      "destination": "/images/treatments/dental-implant-body.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/parts-of-dental-implants.jpg",
+      "destination": "/images/treatments/parts-of-a-dental-implant.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/blog/types-of-dental-implants.jpg",
+      "destination": "/images/treatments/types-of-dental-implants.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/team/team-1.jpg",
+      "destination": "/images/homepage-1/team/dr-ali-burak-bozkurt.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/team/team-2.jpg",
+      "destination": "/images/homepage-1/team/dr-mustafa-akca.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/team/team-3.jpg",
+      "destination": "/images/homepage-1/team/dr-mehmet-onur-merey.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/team/team-5.jpg",
+      "destination": "/images/homepage-1/team/dr-omer-isen.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/img-02.png",
+      "destination": "/images/homepage-1/akdeniz-dental-dentists-antalya.png",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/img-013.jpg",
+      "destination": "/images/homepage-1/patient-video-testimonial.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/icon/setp-01.jpg",
+      "destination": "/images/icon/step-1-contact-akdeniz-dental.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/icon/setp-02.jpg",
+      "destination": "/images/icon/step-2-online-consultation.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/icon/setp-03.jpg",
+      "destination": "/images/icon/step-3-travel-to-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/icon/setp-04.jpg",
+      "destination": "/images/icon/step-4-treatment-in-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-01.jpg",
+      "destination": "/images/homepage-1/service/dental-implants-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-01b.jpg",
+      "destination": "/images/homepage-1/service/dental-implants-antalya-treatment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-02.jpg",
+      "destination": "/images/homepage-1/service/all-on-4-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-02b.jpg",
+      "destination": "/images/homepage-1/service/all-on-4-antalya-treatment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-03.jpg",
+      "destination": "/images/homepage-1/service/all-on-6-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-03b.jpg",
+      "destination": "/images/homepage-1/service/all-on-6-antalya-treatment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-04.jpg",
+      "destination": "/images/homepage-1/service/hollywood-smile-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-04b.jpg",
+      "destination": "/images/homepage-1/service/hollywood-smile-antalya-treatment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-05.jpg",
+      "destination": "/images/homepage-1/service/zirconium-crowns-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-05b.jpg",
+      "destination": "/images/homepage-1/service/zirconium-crowns-antalya-treatment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-06.jpg",
+      "destination": "/images/homepage-1/service/e-max-antalya.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/service/service-06b.jpg",
+      "destination": "/images/homepage-1/service/e-max-antalya-treatment.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail1.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-1.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail2.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-2.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail3.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-3.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail4.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-4.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail5.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-5.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail6.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-6.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail7.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-7.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail8.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-8.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail9.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-9.jpg",
+      "permanent": true
+    },
+    {
+      "source": "/images/homepage-1/portfolio/youtube-thumbnail10.jpg",
+      "destination": "/images/homepage-1/portfolio/patient-video-testimonial-10.jpg",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "(?<sub>.*)\\.vercel\\.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/css/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/js/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/fonts/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, stale-while-revalidate=86400"
+        }
+      ]
+    }
+  ]
+}

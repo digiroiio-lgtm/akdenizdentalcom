@@ -1,0 +1,24 @@
+{
+ "src": "images/treatments/dental-implant-body.jpg",
+ "clean": "images/treatments/dental-implant-body.webp",
+ "height": 540,
+ "boxes": [
+  {
+   "left": 53.4,
+   "top": 3.7,
+   "width": 45,
+   "color": "#245d9a",
+   "size": 6.0,
+   "weight": 900,
+   "upper": true,
+   "lh": 1.33,
+   "text": {
+    "en": "Dental\nimplant",
+    "de": "Zahn-\nimplantat",
+    "pl": "Implant\nzębowy",
+    "ro": "Implant\ndentar",
+    "ru": "Зубной\nимплантат"
+   }
+  }
+ ]
+}

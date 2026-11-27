@@ -1,0 +1,11 @@
+{
+ "src": "images/blog/dental-implants-after-having-dentures.webp",
+ "clean": "images/blog/clean/can-i-get-dental-implants-after-having-dentures.webp",
+ "height": 530,
+ "boxes": [
+  {"left": 4.4, "top": 35.0, "width": 51, "align": "left", "color": "#0d4ca3", "size": 5.4, "weight": 800, "lh": 1.15, "spacing": -0.02,
+   "text": {"en": "Dental Implants\nAfter Dentures", "de": "Zahnimplantate\nnach Prothesen", "pl": "Implanty zębowe\npo protezach", "ro": "Implanturi dentare\ndupă proteze", "ru": "Импланты зубов\nпосле протезов"}},
+  {"left": 4.6, "top": 55.0, "width": 45, "align": "left", "color": "#0d4ca3", "size": 4.3, "weight": 400, "lh": 1.2,
+   "text": {"en": "Antalya, Turkey", "de": "Antalya, Türkei", "pl": "Antalya, Turcja", "ro": "Antalya, Turcia", "ru": "Анталия, Турция"}}
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "src": "images/blog/how-long-do-all-on-4-dental-implants-last.jpg",
+ "clean": "images/blog/clean/how-long-do-all-on-4-dental-implants-last.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 7.88,
+   "top": 10.77,
+   "width": 41.25,
+   "size": 5.31,
+   "lh": 1.64,
+   "align": "left",
+   "color": "#ffffff",
+   "weight": 800,
+   "upper": true,
+   "text": {
+    "en": "How long\ndo All on 4\ndental\nimplants\nlast?",
+    "de": "Wie lange\nhalten\nAll on 4\nImplantate?",
+    "pl": "Jak długo\nwytrzymują\nimplanty\nAll on 4?",
+    "ro": "Cât rezistă\nimplanturile\ndentare\nAll on 4?",
+    "ru": "Сколько\nслужат\nимпланты\nAll on 4?"
+   }
+  },
+  {
+   "left": 7.75,
+   "top": 80.72,
+   "width": 37.5,
+   "size": 1.91,
+   "lh": 1.2,
+   "align": "left",
+   "color": "#ffffff",
+   "weight": 400,
+   "italic": true,
+   "text": {
+    "en": "What to expect?",
+    "de": "Was erwartet Sie?",
+    "pl": "Czego się spodziewać?",
+    "ro": "La ce să vă așteptați?",
+    "ru": "Чего ожидать?"
+   }
+  }
+ ]
+}

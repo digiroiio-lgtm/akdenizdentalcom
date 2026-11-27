@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/how-to-stop-coffee-staining-teeth.jpg",
+ "clean": "images/blog/clean/how-to-stop-coffee-staining-teeth.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 49.4,
+   "top": 9.2,
+   "width": 44,
+   "align": "right",
+   "color": "#ffffff",
+   "size": 4.0,
+   "weight": 400,
+   "lh": 1.42,
+   "text": {
+    "en": "How to Stop Coffee\nStaining Teeth?",
+    "de": "Kaffeeflecken\nauf Zähnen stoppen?",
+    "pl": "Jak uniknąć plam\nod kawy na zębach?",
+    "ro": "Cum oprești petele\nde cafea pe dinți?",
+    "ru": "Как избежать пятен\nот кофе на зубах?"
+   }
+  },
+  {
+   "left": 52.6,
+   "top": 41.6,
+   "width": 41,
+   "align": "right",
+   "color": "#ffffff",
+   "size": 2.0,
+   "weight": 400,
+   "lh": 1.6,
+   "text": {
+    "en": "When brown, yellowish or blackish stains appear on your teeth, this can become an aesthetic concern. Coffee can affect your smile by yellowing your teeth, and sometimes these stains can even lead to health problems.",
+    "de": "Braune, gelbliche oder schwärzliche Verfärbungen der Zähne können ästhetisch stören. Kaffee lässt die Zähne vergilben und trübt Ihr Lächeln – manchmal führen diese Flecken sogar zu gesundheitlichen Problemen.",
+    "pl": "Brązowe, żółtawe lub czarne przebarwienia na zębach mogą być problemem estetycznym. Kawa może pogorszyć wygląd uśmiechu, powodując żółknięcie zębów, a czasem te osady prowadzą nawet do problemów zdrowotnych.",
+    "ro": "Petele maronii, gălbui sau negricioase de pe dinți pot deveni o problemă estetică. Cafeaua vă poate afecta zâmbetul îngălbenind dinții, iar uneori aceste pete pot duce chiar la probleme de sănătate.",
+    "ru": "Коричневые, желтоватые или тёмные пятна на зубах могут стать эстетической проблемой. Кофе окрашивает зубы в жёлтый цвет и портит улыбку, а иногда такие пятна даже приводят к проблемам со здоровьем."
+   }
+  }
+ ]
+}

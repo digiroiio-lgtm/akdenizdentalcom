@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/hydrogen-peroxide-for-teeth-whitening.jpg",
+ "clean": "images/blog/clean/hydrogen-peroxide-for-teeth-whitening.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 46.5,
+   "top": 7.66,
+   "width": 46.75,
+   "size": 3.75,
+   "lh": 1.75,
+   "align": "right",
+   "color": "#ffffff",
+   "weight": 600,
+   "text": {
+    "en": "Hydrogen Peroxide For\nTeeth Whitening:\nIs It Safe? Does It Work?",
+    "de": "Wasserstoffperoxid zur\nZahnaufhellung:\nIst es sicher? Wirkt es?",
+    "pl": "Nadtlenek wodoru do\nwybielania zębów:\nBezpieczny? Skuteczny?",
+    "ro": "Apa oxigenată pentru\nalbirea dinților:\nE sigură? Funcționează?",
+    "ru": "Перекись водорода для\nотбеливания зубов:\nБезопасно? Работает?"
+   }
+  },
+  {
+   "left": 47.5,
+   "top": 51.94,
+   "width": 45.75,
+   "size": 1.85,
+   "lh": 1.29,
+   "align": "right",
+   "color": "#ffffff",
+   "weight": 400,
+   "text": {
+    "en": "According to the American Dental Association (ADA), hydrogen peroxide is generally considered safe when used in over-the-counter products at concentrations no greater than 3.5%.",
+    "de": "Laut der American Dental Association (ADA) gilt Wasserstoffperoxid in rezeptfreien Produkten mit einer Konzentration von höchstens 3,5 % allgemein als sicher.",
+    "pl": "Według Amerykańskiego Towarzystwa Stomatologicznego (ADA) nadtlenek wodoru jest uznawany za bezpieczny w produktach bez recepty o stężeniu nie wyższym niż 3,5%.",
+    "ro": "Potrivit Asociației Dentare Americane (ADA), peroxidul de hidrogen este considerat în general sigur în produsele fără prescripție, la concentrații de cel mult 3,5%.",
+    "ru": "По данным Американской стоматологической ассоциации (ADA), перекись водорода в безрецептурных средствах считается безопасной при концентрации не более 3,5%."
+   }
+  }
+ ]
+}

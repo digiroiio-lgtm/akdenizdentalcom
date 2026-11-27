@@ -1,0 +1,24 @@
+{
+ "src": "images/blog/emax-veneers.jpg",
+ "clean": "images/blog/clean/inline-emax-veneers-label.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 33.75,
+   "top": 51.2,
+   "width": 34.75,
+   "size": 4.3,
+   "lh": 1.2,
+   "align": "center",
+   "color": "#2b2b2b",
+   "weight": 800,
+   "text": {
+    "en": "Emax Veneers",
+    "de": "E-max-Veneers",
+    "pl": "Licówki Emax",
+    "ro": "Fațete Emax",
+    "ru": "Виниры Emax"
+   }
+  }
+ ]
+}

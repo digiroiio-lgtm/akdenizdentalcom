@@ -1,0 +1,24 @@
+{
+ "src": "images/blog/bad-breath-after-tooth-extraction.jpg",
+ "clean": "images/blog/clean/bad-breath-after-tooth-extraction.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 58.3,
+   "top": 1.5,
+   "width": 40,
+   "align": "left",
+   "color": "#111111",
+   "size": 6.9,
+   "weight": 400,
+   "lh": 1.71,
+   "text": {
+    "en": "Bad\nBreath\nAfter\nTooth\nExtraction",
+    "de": "Mundgeruch\nnach\nZahn-\nextraktion",
+    "pl": "Nieświeży\noddech po\nekstrakcji\nzęba",
+    "ro": "Respirație\nneplăcută\ndupă\nextracția\ndentară",
+    "ru": "Запах\nизо рта\nпосле\nудаления\nзуба"
+   }
+  }
+ ]
+}
