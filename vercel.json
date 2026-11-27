@@ -5,11 +5,52 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    { "source": "/de/research-style-1", "destination": "/de/clinic-gallery", "permanent": true },
-    { "source": "/pl/research-style-1", "destination": "/pl/clinic-gallery", "permanent": true },
-    { "source": "/ro/research-style-1", "destination": "/ro/clinic-gallery", "permanent": true },
-    { "source": "/ru/research-style-1", "destination": "/ru/clinic-gallery", "permanent": true },
-    { "source": "/ro/what-are-screwless-dental-implants-screw-implant-or-bonding", "destination": "/ro/dental-implants", "permanent": true },
-    { "source": "/pl/what-are-screwless-dental-implants-screw-implant-or-bonding", "destination": "/pl/dental-implants", "permanent": true }
+    {
+      "source": "/de/research-style-1",
+      "destination": "/de/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/pl/research-style-1",
+      "destination": "/pl/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/ro/research-style-1",
+      "destination": "/ro/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/ru/research-style-1",
+      "destination": "/ru/clinic-gallery",
+      "permanent": true
+    },
+    {
+      "source": "/ro/what-are-screwless-dental-implants-screw-implant-or-bonding",
+      "destination": "/ro/dental-implants",
+      "permanent": true
+    },
+    {
+      "source": "/pl/what-are-screwless-dental-implants-screw-implant-or-bonding",
+      "destination": "/pl/dental-implants",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "(?<sub>.*)\\.vercel\\.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
   ]
 }
