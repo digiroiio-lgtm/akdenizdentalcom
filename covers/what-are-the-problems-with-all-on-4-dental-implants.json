@@ -1,0 +1,25 @@
+{
+ "src": "images/blog/what-are-the-problems-with-all-on-4-dental-implants.jpg",
+ "clean": "images/blog/clean/what-are-the-problems-with-all-on-4-dental-implants.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 1.2,
+   "top": 21.7,
+   "width": 60,
+   "align": "left",
+   "color": "#272727",
+   "size": 6.8,
+   "weight": 400,
+   "lh": 1.36,
+   "spacing": -0.01,
+   "text": {
+    "en": "What Are The\nProblems With\nAll-On-4 Dental\nImplants?",
+    "de": "Welche Probleme\ngibt es mit\nAll-on-4-\nImplantaten?",
+    "pl": "Jakie są problemy\nz implantami\nAll-on-4?",
+    "ro": "Care sunt\nproblemele\nimplanturilor\nAll-on-4?",
+    "ru": "Какие проблемы\nу имплантов\nAll-on-4?"
+   }
+  }
+ ]
+}

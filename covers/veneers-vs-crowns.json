@@ -1,0 +1,81 @@
+{
+ "src": "images/blog/veneers-vs-crowns.jpg",
+ "clean": "images/blog/clean/veneers-vs-crowns.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 4.25,
+   "top": 6.16,
+   "width": 90.0,
+   "size": 7.75,
+   "lh": 1.15,
+   "align": "center",
+   "color": "#000000",
+   "weight": 400,
+   "text": {
+    "en": "Veneers vs Crowns",
+    "de": "Veneers vs. Kronen",
+    "pl": "Licówki czy korony",
+    "ro": "Fațete vs coroane",
+    "ru": "Виниры или коронки"
+   }
+  },
+  {
+   "left": 20.0,
+   "top": 22.18,
+   "width": 62.5,
+   "size": 2.5,
+   "lh": 1.2,
+   "align": "center",
+   "color": "#000000",
+   "weight": 400,
+   "upper": true,
+   "spacing": 0.03,
+   "text": {
+    "en": "What's the difference?",
+    "de": "Was ist der Unterschied?",
+    "pl": "Jaka jest różnica?",
+    "ro": "Care este diferența?",
+    "ru": "В чём разница?"
+   }
+  },
+  {
+   "left": 6.75,
+   "top": 85.46,
+   "width": 44.0,
+   "size": 2.31,
+   "lh": 1.2,
+   "align": "center",
+   "color": "#000000",
+   "weight": 400,
+   "upper": true,
+   "spacing": 0.02,
+   "text": {
+    "en": "It covers part of the tooth.",
+    "de": "Bedeckt den Zahn teilweise.",
+    "pl": "Pokrywa część zęba.",
+    "ro": "Acoperă o parte din dinte.",
+    "ru": "Покрывает часть зуба."
+   }
+  },
+  {
+   "left": 50.75,
+   "top": 85.46,
+   "width": 44.0,
+   "size": 2.31,
+   "lh": 1.2,
+   "align": "center",
+   "color": "#000000",
+   "weight": 400,
+   "upper": true,
+   "spacing": 0.02,
+   "text": {
+    "en": "It covers the whole tooth.",
+    "de": "Bedeckt den ganzen Zahn.",
+    "pl": "Pokrywa cały ząb.",
+    "ro": "Acoperă întregul dinte.",
+    "ru": "Покрывает весь зуб."
+   }
+  }
+ ]
+}

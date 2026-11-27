@@ -1,0 +1,19 @@
+{
+ "src": "images/blog/gum-contouring.jpg",
+ "clean": "images/blog/clean/gum-contouring.webp",
+ "height": 530,
+ "boxes": [
+  {"left": 6.6, "top": 7.6, "width": 53, "align": "left", "color": "#9a7326", "size": 4.1, "weight": 700, "lh": 1.8,
+   "text": {"en": "Gum Contouring: Causes,\nProcedure, Recovery &\nRisks",
+            "de": "Zahnfleischkonturierung:\nGründe, Ablauf, Heilung\n& Risiken",
+            "pl": "Konturowanie dziąseł:\nprzyczyny, zabieg,\ngojenie i ryzyko",
+            "ro": "Conturarea gingiilor:\ncauze, procedură,\nrecuperare și riscuri",
+            "ru": "Контурная пластика\nдёсен: причины, ход,\nвосстановление, риски"}},
+  {"left": 6.0, "top": 54.2, "width": 47, "align": "left", "color": "#94742f", "size": 1.95, "weight": 400, "lh": 1.5,
+   "text": {"en": "Gum contouring (also known as gum reshaping or gum reduction) is a dental procedure performed by a specialist to alter the level and shape of the gum line.",
+            "de": "Die Zahnfleischkonturierung (auch Zahnfleischkorrektur genannt) ist ein Eingriff, bei dem ein Spezialist Höhe und Form des Zahnfleischrands verändert.",
+            "pl": "Konturowanie dziąseł (modelowanie lub redukcja dziąseł) to zabieg, w którym specjalista zmienia poziom i kształt linii dziąseł.",
+            "ro": "Conturarea gingiilor (remodelare sau reducere gingivală) este o procedură prin care specialistul modifică nivelul și forma liniei gingiei.",
+            "ru": "Контурная пластика дёсен (коррекция или уменьшение дёсен) — процедура, при которой специалист меняет уровень и форму линии дёсен."}}
+ ]
+}

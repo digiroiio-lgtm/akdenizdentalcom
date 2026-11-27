@@ -43,6 +43,7 @@ def box_style(b):
     return ";".join(s)
 
 def figure(slug, lang, prefix="", alt="", eager=False):
+    """slug may be "inline/<name>" for in-article images (spec in covers/inline/)."""
     """HTML for an article page. prefix = '' for root pages, '../' for language folders."""
     sp = load(slug); clean = sp["clean"]; small = clean.replace(".webp", "-480.webp")
     boxes = "".join(f'<span class="ad-cover-t" style="{box_style(b)}" lang="{lang}">{html.escape(b["text"][lang])}</span>'
@@ -70,7 +71,7 @@ def render(pages, out_png, width=1200):
         subprocess.run(["node", str(js), json.dumps(jobs)], check=True)
 
 def preview(slug):
-    sp = load(slug); outdir = SPEC / "_preview"; outdir.mkdir(exist_ok=True)
+    sp = load(slug); outdir = SPEC / "_preview"; (outdir / slug).parent.mkdir(parents=True, exist_ok=True)
     parts = [(f'<figure class="ad-cover"><img src="{sp["src"]}"></figure>', outdir / f"{slug}-orig.png", 800)]
     parts += [(figure(slug, l), outdir / f"{slug}-{l}.png", 800) for l in LANGS]
     parts += [(figure(slug, "de"), outdir / f"{slug}-de-mobile.png", 360)]

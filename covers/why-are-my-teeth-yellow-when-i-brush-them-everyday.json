@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/why-are-my-teeth-yellow-when-i-brush-them-everyday.jpg",
+ "clean": "images/blog/clean/why-are-my-teeth-yellow-when-i-brush-them-everyday.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 6.5,
+   "top": 8.9,
+   "width": 53,
+   "align": "left",
+   "color": "#9a4a4c",
+   "size": 4.8,
+   "weight": 700,
+   "lh": 1.34,
+   "text": {
+    "en": "Why Are My Teeth\nYellow When I Brush\nThem Everyday?",
+    "de": "Warum sind meine\nZähne gelb, obwohl\nich täglich putze?",
+    "pl": "Dlaczego moje zęby\nsą żółte, choć myję\nje codziennie?",
+    "ro": "De ce am dinții\ngalbeni deși îi\nperiez zilnic?",
+    "ru": "Почему мои зубы\nжелтеют, хотя я\nчищу их ежедневно?"
+   }
+  },
+  {
+   "left": 6.5,
+   "top": 47.5,
+   "width": 48,
+   "align": "left",
+   "color": "#82625f",
+   "size": 1.95,
+   "weight": 400,
+   "lh": 1.22,
+   "text": {
+    "en": "You may brush your teeth regularly every day, and even use whitening toothpaste from time to time. But when you look in the mirror, you may still notice that your teeth look yellow. So why is this happening? Are you doing something wrong? Or is teeth whitening not as simple as we think?",
+    "de": "Vielleicht putzen Sie Ihre Zähne regelmäßig jeden Tag und verwenden ab und zu sogar Whitening-Zahnpasta. Doch beim Blick in den Spiegel bemerken Sie trotzdem, dass Ihre Zähne gelb aussehen. Woran liegt das? Machen Sie etwas falsch? Oder ist Zahnaufhellung nicht so einfach, wie wir denken?",
+    "pl": "Możesz codziennie regularnie myć zęby, a od czasu do czasu nawet używać wybielającej pasty. Mimo to, patrząc w lustro, wciąż zauważasz, że Twoje zęby są żółte. Dlaczego tak się dzieje? Czy robisz coś źle? A może wybielanie zębów nie jest tak proste, jak myślimy?",
+    "ro": "Poate vă periați dinții regulat în fiecare zi și chiar folosiți din când în când pastă de dinți albitoare. Totuși, când vă uitați în oglindă, observați că dinții par galbeni. De ce se întâmplă asta? Greșiți ceva? Sau albirea dinților nu este atât de simplă cum credem?",
+    "ru": "Вы можете регулярно чистить зубы каждый день и даже время от времени пользоваться отбеливающей пастой. Но, глядя в зеркало, всё равно замечаете, что зубы выглядят жёлтыми. Почему так происходит? Вы что-то делаете неправильно? Или отбеливание зубов не так просто, как кажется?"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/does-vaping-stain-teeth.jpg",
+ "clean": "images/blog/clean/does-vaping-stain-teeth.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 6.62,
+   "top": 8.77,
+   "width": 47.0,
+   "size": 4.79,
+   "lh": 1.36,
+   "align": "left",
+   "color": "#b06875",
+   "weight": 600,
+   "text": {
+    "en": "Does Vaping Stain\nTeeth?",
+    "de": "Verfärbt Dampfen\ndie Zähne?",
+    "pl": "Czy wapowanie\nprzebarwia zęby?",
+    "ro": "Vapatul pătează\ndinții?",
+    "ru": "Окрашивает ли\nвейп зубы?"
+   }
+  },
+  {
+   "left": 6.75,
+   "top": 40.19,
+   "width": 39.0,
+   "size": 1.91,
+   "lh": 1.18,
+   "align": "left",
+   "color": "#f4f4f4",
+   "weight": 400,
+   "text": {
+    "en": "In recent years, many people have turned to vaping devices in order to quit traditional cigarettes or find a ‘cleaner’ alternative. While most people believe that vaping does not leave a bad smell on clothes or stain teeth, scientific research and clinical observations show that this is not entirely the case. So, does vaping really stain teeth?",
+    "de": "In den letzten Jahren sind viele Menschen auf E-Zigaretten umgestiegen, um mit dem Rauchen aufzuhören oder eine „sauberere“ Alternative zu finden. Viele glauben, Dampfen hinterlasse keinen Geruch an der Kleidung und verfärbe die Zähne nicht – doch Studien und klinische Beobachtungen zeigen, dass das nicht ganz stimmt. Verfärbt Dampfen also wirklich die Zähne?",
+    "pl": "W ostatnich latach wiele osób sięgnęło po e-papierosy, aby rzucić tradycyjne papierosy lub znaleźć „czystszą” alternatywę. Większość uważa, że wapowanie nie zostawia nieprzyjemnego zapachu na ubraniach ani nie przebarwia zębów, jednak badania naukowe i obserwacje kliniczne pokazują, że nie do końca tak jest. Czy wapowanie naprawdę przebarwia zęby?",
+    "ro": "În ultimii ani, mulți oameni au trecut la țigara electronică pentru a renunța la țigările tradiționale sau pentru a găsi o alternativă „mai curată”. Deși majoritatea cred că vapatul nu lasă miros neplăcut pe haine și nu pătează dinții, cercetările științifice și observațiile clinice arată că lucrurile nu stau chiar așa. Așadar, vapatul pătează cu adevărat dinții?",
+    "ru": "В последние годы многие перешли на вейпы, чтобы бросить обычные сигареты или найти «более чистую» альтернативу. Большинство считает, что вейпинг не оставляет неприятного запаха на одежде и не окрашивает зубы, однако научные исследования и клинические наблюдения показывают, что это не совсем так. Так окрашивает ли вейпинг зубы на самом деле?"
+   }
+  }
+ ]
+}

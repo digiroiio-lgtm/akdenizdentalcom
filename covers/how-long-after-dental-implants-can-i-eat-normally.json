@@ -1,0 +1,246 @@
+{
+ "src": "images/blog/how-long-after-dental-implants-can-i-eat-normally.jpg",
+ "clean": "images/blog/clean/how-long-after-dental-implants-can-i-eat-normally.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 10.0,
+   "top": 0.44,
+   "width": 80.0,
+   "size": 3.38,
+   "lh": 1.37,
+   "align": "center",
+   "color": "#111111",
+   "weight": 800,
+   "upper": true,
+   "text": {
+    "en": "Nutrition during dental implant\nrecovery time",
+    "de": "Ernährung in der Heilungsphase\nnach Implantaten",
+    "pl": "Odżywianie podczas gojenia\npo implantach",
+    "ro": "Alimentația în recuperarea\ndupă implant",
+    "ru": "Питание в период заживления\nимплантов"
+   }
+  },
+  {
+   "left": 15.25,
+   "top": 10.82,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Mashed\nPotatoes",
+    "de": "Kartoffel-\npüree",
+    "pl": "Tłuczone\nziemniaki",
+    "ro": "Piure de\ncartofi",
+    "ru": "Пюре из\nкартофеля"
+   }
+  },
+  {
+   "left": 15.75,
+   "top": 27.43,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Scrambled\nEggs",
+    "de": "Rührei",
+    "pl": "Jajecznica",
+    "ro": "Ouă\njumări",
+    "ru": "Яичница-\nболтунья"
+   }
+  },
+  {
+   "left": 15.62,
+   "top": 43.09,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Soup",
+    "de": "Suppe",
+    "pl": "Zupa",
+    "ro": "Supă",
+    "ru": "Суп"
+   }
+  },
+  {
+   "left": 15.38,
+   "top": 61.39,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Smoothies",
+    "de": "Smoothies",
+    "pl": "Smoothie",
+    "ro": "Smoothie-uri",
+    "ru": "Смузи"
+   }
+  },
+  {
+   "left": 14.75,
+   "top": 77.05,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Porridge",
+    "de": "Haferbrei",
+    "pl": "Owsianka",
+    "ro": "Terci de\novăz",
+    "ru": "Каша"
+   }
+  },
+  {
+   "left": 15.0,
+   "top": 88.94,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Yogurt",
+    "de": "Joghurt",
+    "pl": "Jogurt",
+    "ro": "Iaurt",
+    "ru": "Йогурт"
+   }
+  },
+  {
+   "left": 62.5,
+   "top": 9.5,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Hard\nNut",
+    "de": "Harte\nNüsse",
+    "pl": "Twarde\norzechy",
+    "ro": "Nuci\ntari",
+    "ru": "Твёрдые\nорехи"
+   }
+  },
+  {
+   "left": 64.75,
+   "top": 25.16,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Crunchy\nSnacks",
+    "de": "Knusprige\nSnacks",
+    "pl": "Chrupiące\nprzekąski",
+    "ro": "Gustări\ncrocante",
+    "ru": "Хрустящие\nснеки"
+   }
+  },
+  {
+   "left": 64.0,
+   "top": 41.39,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Sticky\nSweets",
+    "de": "Klebrige\nSüßigkeiten",
+    "pl": "Ciągnące\nsłodycze",
+    "ro": "Dulciuri\nlipicioase",
+    "ru": "Липкие\nсладости"
+   }
+  },
+  {
+   "left": 67.12,
+   "top": 58.18,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Carbonated\nDrinks",
+    "de": "Sprudel-\ngetränke",
+    "pl": "Napoje\ngazowane",
+    "ro": "Băuturi\nacidulate",
+    "ru": "Газирован-\nные напитки"
+   }
+  },
+  {
+   "left": 63.25,
+   "top": 73.84,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Spicy\nFoods",
+    "de": "Scharfes\nEssen",
+    "pl": "Ostre\npotrawy",
+    "ro": "Mâncăruri\npicante",
+    "ru": "Острая\nпища"
+   }
+  },
+  {
+   "left": 65.0,
+   "top": 88.18,
+   "width": 17.0,
+   "size": 2.85,
+   "lh": 1.5,
+   "align": "center",
+   "color": "#111111",
+   "weight": 700,
+   "text": {
+    "en": "Smoking",
+    "de": "Rauchen",
+    "pl": "Palenie",
+    "ro": "Fumatul",
+    "ru": "Курение"
+   }
+  },
+  {
+   "left": 15.38,
+   "top": 50.12,
+   "width": 17.5,
+   "size": 2.0,
+   "lh": 1.2,
+   "align": "center",
+   "color": "#111111",
+   "weight": 600,
+   "text": {
+    "en": "(Cream-Based)",
+    "de": "(cremig)",
+    "pl": "(kremowa)",
+    "ro": "(cremă)",
+    "ru": "(суп-пюре)"
+   }
+  }
+ ]
+}
