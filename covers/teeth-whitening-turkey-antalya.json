@@ -1,0 +1,15 @@
+{
+ "src": "images/blog/teeth-whitening-turkey-antalya.jpg",
+ "clean": "images/blog/clean/teeth-whitening-turkey-antalya.webp",
+ "height": 530,
+ "boxes": [
+  {"left": 6.6, "top": 7.5, "width": 45, "align": "left", "color": "#1b3d62", "size": 4.5, "weight": 600, "lh": 1.7,
+   "text": {"en": "Teeth Whitening\nin Antalya, Turkey", "de": "Zahnaufhellung\nin Antalya, Türkei", "pl": "Wybielanie zębów\nw Antalyi, Turcja", "ro": "Albirea dinților\nîn Antalya, Turcia", "ru": "Отбеливание зубов\nв Анталии, Турция"}},
+  {"left": 6.6, "top": 41.5, "width": 42, "align": "left", "color": "#2a4050", "size": 1.9, "weight": 400, "lh": 1.47,
+   "text": {"en": "Teeth whitening, or tooth bleaching, is a cosmetic dental treatment designed to make teeth appear whiter and brighter. This procedure is carried out to lighten the color of the teeth without damaging the enamel or removing any layer from the tooth surface.",
+            "de": "Zahnaufhellung, auch Bleaching genannt, ist eine kosmetische Zahnbehandlung, die Zähne weißer und strahlender erscheinen lässt. Dabei wird die Zahnfarbe aufgehellt, ohne den Zahnschmelz zu schädigen oder Schichten der Zahnoberfläche abzutragen.",
+            "pl": "Wybielanie zębów to zabieg stomatologii estetycznej, dzięki któremu zęby wyglądają na bielsze i jaśniejsze. Rozjaśnia on kolor zębów bez uszkadzania szkliwa i bez usuwania jakiejkolwiek warstwy z ich powierzchni.",
+            "ro": "Albirea dinților este un tratament stomatologic estetic care face dinții să pară mai albi și mai strălucitori. Procedura deschide culoarea dinților fără a deteriora smalțul și fără a îndepărta vreun strat de pe suprafața dintelui.",
+            "ru": "Отбеливание зубов — это эстетическая стоматологическая процедура, которая делает зубы белее и ярче. Она осветляет цвет зубов, не повреждая эмаль и не удаляя ни одного слоя с поверхности зуба."}}
+ ]
+}
