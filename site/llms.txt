@@ -1,0 +1,35 @@
+# Akdeniz Dental Clinic
+
+> Akdeniz Dental Clinic is a dental clinic in Antalya, Turkey, treating international patients (mainly from the UK, Ireland, Germany, Austria, Switzerland, Poland, Romania and Russian-speaking countries). Treatments include dental implants, All-on-4 and All-on-6 full-arch implants, zirconium crowns, E-max veneers and smile makeovers (Hollywood smile). The clinic works with its own dental laboratory (Akdeniz Dental Lab).
+
+- Address: Çaybaşı, 1358. Sk. Premier Plaza D:1 B Blok, Muratpaşa, 07100 Antalya, Turkey
+- Phone / WhatsApp: +90 541 248 35 62
+- Email: info@akdenizdental.com
+- Opening hours: Monday–Saturday, 09:00–19:00 (Turkey time)
+- Languages: English, German, Polish, Romanian, Russian
+
+## Treatments (English)
+- [Dental implants in Antalya](https://akdenizdental.com/dental-implants)
+- [All-on-4 dental implants](https://akdenizdental.com/all-on-4)
+- [All-on-6 dental implants](https://akdenizdental.com/all-on-6)
+- [Zirconium crowns](https://akdenizdental.com/zirconium-crowns)
+- [E-max veneers](https://akdenizdental.com/e-max)
+- [Hollywood smile / smile makeover](https://akdenizdental.com/hollywood-smile)
+- [Dental finance options](https://akdenizdental.com/dental-finance-turkey)
+
+## Clinic
+- [About / our history](https://akdenizdental.com/our-history)
+- [Our dentists](https://akdenizdental.com/our-team)
+- [Before & after results](https://akdenizdental.com/before-after)
+- [FAQ](https://akdenizdental.com/faq)
+- [Contact](https://akdenizdental.com/contact-us)
+- [Blog](https://akdenizdental.com/blog)
+
+## Other languages
+- [Deutsch](https://akdenizdental.com/de/index)
+- [Polski](https://akdenizdental.com/pl/index)
+- [Română](https://akdenizdental.com/ro/index)
+- [Русский](https://akdenizdental.com/ru/index)
+
+## Optional
+- [Sitemap](https://akdenizdental.com/sitemap.xml)
