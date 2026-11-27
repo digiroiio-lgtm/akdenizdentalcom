@@ -26,6 +26,7 @@ Vercel tarafı hazır, sadece DNS değişikliği bekliyor. Bu adım yapılana ka
 - [ ] SSL sertifikası aktif (https)
 - [ ] Eski URL'ler: `/dental-implants.html` → `/dental-implants`, `/ru/index` 200, eski görsel adresleri → `images/treatments/...` (301)
 - [ ] Form gönderimi → 5 dilde teşekkür sayfası
+- [ ] reCAPTCHA canlı domainde hatasız görünüyor ("Invalid domain for site key" yok) ve form gönderimi kabul ediliyor. Site anahtarı akdenizdental.com için tanımlı; test adresi (vercel.app) listede olmadığı için testte hata vermesi normal. Gerekirse Google reCAPTCHA admin → Domains listesine domain eklenir.
 - [ ] JivoChat, WhatsApp butonu, GA4/GTM, Meta Pixel, Yandex Metrika çalışıyor
 - [ ] 5 dilde örnek sayfalar masaüstü + mobil (Playwright)
 - [ ] `python3 tools/site_report.py site`, `tools/hreflang_audit.py`, `tools/image_audit.py` temiz
