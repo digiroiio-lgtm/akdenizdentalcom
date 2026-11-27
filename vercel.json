@@ -24,16 +24,6 @@
       "source": "/ru/research-style-1",
       "destination": "/ru/clinic-gallery",
       "permanent": true
-    },
-    {
-      "source": "/ro/what-are-screwless-dental-implants-screw-implant-or-bonding",
-      "destination": "/ro/dental-implants",
-      "permanent": true
-    },
-    {
-      "source": "/pl/what-are-screwless-dental-implants-screw-implant-or-bonding",
-      "destination": "/pl/dental-implants",
-      "permanent": true
     }
   ],
   "headers": [
