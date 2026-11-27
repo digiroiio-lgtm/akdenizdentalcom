@@ -1781,3 +1781,18 @@ form button{
 .form-style-1 .form-control:focus{
 	border-color: var(--pbmit-global-color);
 }
+
+/** Form field fix: 50px line-height clipped <select> text on iOS Safari and spread textarea lines **/
+input.form-control{
+    line-height: 1.4;
+}
+select.form-control{
+    line-height: 1.4;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+textarea.form-control{
+    line-height: 1.6;
+    height: auto;
+    min-height: 130px;
+}
