@@ -76,6 +76,12 @@ for langdir in sorted(OUT.iterdir()):
         slug = f.stem
         meta = json.loads((langdir / f"{slug}.json").read_text("utf-8"))
         frag = fix_paths(f.read_text("utf-8"), lang)
+        # UK-only finance banner (Ideal4Finance) does not apply to non-UK readers
+        frag = re.sub(r"\s*<!-- Dental Finance Callout Banner -->.*?<!-- /Dental Finance Callout Banner -->", "", frag, flags=re.S)
+        if meta.get("card_title"):
+            # breadcrumb shows the article itself; fix copied image alt text from the English source
+            frag = re.sub(r'(current-item">)[^<]*(</span>)', lambda m: m.group(1) + esc(meta["card_title"]) + m.group(2), frag, count=1)
+            frag = re.sub(r'(<img[^>]*src="[^"]*"[^>]*?)alt="[^"]*" title="[^"]*"', lambda m: m.group(1) + f'alt="{esc(meta["card_title"])}" title="{esc(meta["card_title"])}"', frag, count=1)
         page = set_head(prefix, lang, slug, meta).replace("</head>", schemas(lang, slug, meta, frag) + "</head>", 1) + frag + suffix
         (ROOT / lang / f"{slug}.html").write_text(page, "utf-8"); built.append(f"{lang}/{slug}")
         if meta.get("card_title"): cards.setdefault(lang, []).append((slug, meta))
