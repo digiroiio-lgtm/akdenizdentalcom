@@ -15,7 +15,7 @@
    "upper": true,
    "text": {
     "en": "Nutrition during dental implant\nrecovery time",
-    "de": "Ernährung in der Heilungsphase\nnach Implantaten",
+    "de": "Ernährung in der Heilungsphase\nnach Implantat",
     "pl": "Odżywianie podczas gojenia\npo implantach",
     "ro": "Alimentația în recuperarea\ndupă implant",
     "ru": "Питание в период заживления\nимплантов"
@@ -85,7 +85,7 @@
     "en": "Smoothies",
     "de": "Smoothies",
     "pl": "Smoothie",
-    "ro": "Smoothie-uri",
+    "ro": "Smoothie",
     "ru": "Смузи"
    }
   },
@@ -102,7 +102,7 @@
     "en": "Porridge",
     "de": "Haferbrei",
     "pl": "Owsianka",
-    "ro": "Terci de\novăz",
+    "ro": "Terci",
     "ru": "Каша"
    }
   },
@@ -188,7 +188,7 @@
     "de": "Sprudel-\ngetränke",
     "pl": "Napoje\ngazowane",
     "ro": "Băuturi\nacidulate",
-    "ru": "Газирован-\nные напитки"
+    "ru": "Газировка"
    }
   },
   {

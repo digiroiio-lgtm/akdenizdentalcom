@@ -4,9 +4,9 @@
  "height": 530,
  "boxes": [
   {
-   "left": 53.12,
+   "left": 52.25,
    "top": 10.65,
-   "width": 40.25,
+   "width": 41.12,
    "size": 7.25,
    "lh": 0.95,
    "align": "right",
@@ -15,15 +15,15 @@
    "text": {
     "en": "All on 4\nAftercare",
     "de": "All on 4\nNachsorge",
-    "pl": "All on 4\nPielęgnacja",
+    "pl": "Opieka po\nAll on 4",
     "ro": "All on 4\nÎngrijire",
     "ru": "All on 4\nУход"
    }
   },
   {
-   "left": 53.12,
+   "left": 52.25,
    "top": 31.18,
-   "width": 40.25,
+   "width": 41.12,
    "size": 5.62,
    "lh": 1.0,
    "align": "right",
@@ -32,7 +32,7 @@
    "text": {
     "en": "After\nTreatment\nIn Antalya,\nTurkey",
     "de": "Nach der\nBehandlung\nin Antalya,\nTürkei",
-    "pl": "Po leczeniu\nw Antalyi,\nTurcja",
+    "pl": "Po zabiegu\nw Antalyi,\nTurcja",
     "ro": "După\ntratament\nîn Antalya,\nTurcia",
     "ru": "После\nлечения\nв Анталии,\nТурция"
    }

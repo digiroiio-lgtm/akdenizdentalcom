@@ -1,0 +1,43 @@
+{
+ "src": "images/blog/emax-veneers-pros-and-cons-1.jpg",
+ "clean": "images/blog/clean/emax-veneers-pros-and-cons.webp",
+ "height": 600,
+ "boxes": [
+  {
+   "left": 3.9,
+   "top": 6.8,
+   "width": 90,
+   "align": "center",
+   "color": "#000000",
+   "size": 5.6,
+   "weight": 400,
+   "lh": 1.2,
+   "font": "Arial",
+   "text": {
+    "en": "Emax Veneers Pros and Cons",
+    "de": "E-max-Veneers: Pro und Contra",
+    "pl": "Licówki E-max: zalety i wady",
+    "ro": "Fațete E-max: pro și contra",
+    "ru": "Виниры E-max: плюсы и минусы"
+   }
+  },
+  {
+   "left": 5,
+   "top": 83.8,
+   "width": 90.6,
+   "align": "center",
+   "color": "#000000",
+   "size": 5.6,
+   "weight": 400,
+   "lh": 1.2,
+   "font": "Arial",
+   "text": {
+    "en": "Thinner and stronger",
+    "de": "Dünner und stärker",
+    "pl": "Cieńsze i mocniejsze",
+    "ro": "Mai subțiri, mai rezistente",
+    "ru": "Тоньше и прочнее"
+   }
+  }
+ ]
+}

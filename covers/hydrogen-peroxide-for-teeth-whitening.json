@@ -4,9 +4,9 @@
  "height": 530,
  "boxes": [
   {
-   "left": 47.0,
+   "left": 46.5,
    "top": 7.66,
-   "width": 46.25,
+   "width": 46.75,
    "size": 3.75,
    "lh": 1.75,
    "align": "right",
@@ -17,15 +17,15 @@
     "de": "Wasserstoffperoxid zur\nZahnaufhellung:\nIst es sicher? Wirkt es?",
     "pl": "Nadtlenek wodoru do\nwybielania zębów:\nBezpieczny? Skuteczny?",
     "ro": "Apa oxigenată pentru\nalbirea dinților:\nE sigură? Funcționează?",
-    "ru": "Перекись водорода для\nотбеливания зубов:\nБезопасно? Эффективно?"
+    "ru": "Перекись водорода для\nотбеливания зубов:\nБезопасно? Работает?"
    }
   },
   {
    "left": 47.5,
-   "top": 51.91,
+   "top": 51.94,
    "width": 45.75,
-   "size": 1.77,
-   "lh": 1.34,
+   "size": 1.85,
+   "lh": 1.29,
    "align": "right",
    "color": "#ffffff",
    "weight": 400,

@@ -1,0 +1,24 @@
+{
+ "src": "images/blog/will-a-sinus-infection-cause-a-toothache.jpg",
+ "clean": "images/blog/clean/will-a-sinus-infection-cause-a-toothache.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 6.6,
+   "top": 23.2,
+   "width": 51,
+   "align": "left",
+   "color": "#2f6168",
+   "size": 4.6,
+   "weight": 700,
+   "lh": 1.4,
+   "text": {
+    "en": "Will a Sinus Infection\nCause a Toothache?",
+    "de": "Kann Sinusitis\nZahnschmerzen auslösen?",
+    "pl": "Czy zapalenie zatok\nmoże powodować ból zęba?",
+    "ro": "Sinuzita poate\nprovoca durere de dinți?",
+    "ru": "Может ли синусит\nвызвать зубную боль?"
+   }
+  }
+ ]
+}

@@ -5,13 +5,14 @@
  "boxes": [
   {
    "left": 4.25,
-   "top": 6.16,
+   "top": 6.07,
    "width": 90.0,
-   "size": 7.75,
+   "size": 8.0,
    "lh": 1.15,
    "align": "center",
    "color": "#000000",
    "weight": 400,
+   "italic": true,
    "text": {
     "en": "Veneers vs Crowns",
     "de": "Veneers vs. Kronen",
@@ -49,7 +50,7 @@
    "color": "#000000",
    "weight": 400,
    "upper": true,
-   "spacing": 0.02,
+   "spacing": 0.05,
    "text": {
     "en": "It covers part of the tooth.",
     "de": "Bedeckt den Zahn teilweise.",
@@ -68,7 +69,7 @@
    "color": "#000000",
    "weight": 400,
    "upper": true,
-   "spacing": 0.02,
+   "spacing": 0.05,
    "text": {
     "en": "It covers the whole tooth.",
     "de": "Bedeckt den ganzen Zahn.",

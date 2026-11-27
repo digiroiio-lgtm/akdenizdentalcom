@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/pain-in-cheekbone-and-teeth.jpg",
+ "clean": "images/blog/clean/pain-in-cheekbone-and-teeth.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 6.6,
+   "top": 8.3,
+   "width": 50,
+   "align": "left",
+   "color": "#06292b",
+   "size": 5.0,
+   "weight": 700,
+   "lh": 1.42,
+   "text": {
+    "en": "Causes of Pain in\nCheekbone and\nTeeth",
+    "de": "Warum schmerzen\nWangenknochen\nund Zähne?",
+    "pl": "Przyczyny bólu\nkości policzkowej\ni zębów",
+    "ro": "Cauzele durerii\nîn pomeți\nși dinți",
+    "ru": "Причины боли\nв скуле\nи зубах"
+   }
+  },
+  {
+   "left": 6.6,
+   "top": 48.5,
+   "width": 41.5,
+   "align": "left",
+   "color": "#2f3a40",
+   "size": 2.2,
+   "weight": 400,
+   "lh": 1.17,
+   "text": {
+    "en": "Pain felt in the cheekbone (zygomatic bone) and teeth is a complex condition arising from the anatomical proximity of these areas and the interconnectedness of their nerve networks. The pain often tends to spread from one area to another.",
+    "de": "Schmerzen im Wangenknochen (Jochbein) und in den Zähnen sind ein komplexes Beschwerdebild, das durch die anatomische Nähe dieser Bereiche und die Vernetzung ihrer Nerven entsteht. Der Schmerz breitet sich oft von einem Bereich auf den anderen aus.",
+    "pl": "Ból odczuwany w kości policzkowej (jarzmowej) i zębach to złożony problem wynikający z anatomicznej bliskości tych obszarów i powiązań ich sieci nerwowych. Ból często promieniuje z jednego miejsca na drugie.",
+    "ro": "Durerea resimțită în pomet (osul zigomatic) și în dinți este o afecțiune complexă, cauzată de apropierea anatomică a acestor zone și de legăturile dintre rețelele lor nervoase. Adesea, durerea se răspândește dintr-o zonă în alta.",
+    "ru": "Боль в скуле (скуловой кости) и зубах — сложное состояние, связанное с анатомической близостью этих областей и взаимосвязью их нервных сетей. Боль часто распространяется из одной зоны в другую."
+   }
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "src": "images/blog/screwless-dental-implants.jpg",
+ "clean": "images/blog/clean/what-are-screwless-dental-implants-screw-implant-or-bonding.webp",
+ "height": 600,
+ "boxes": [
+  {
+   "left": 32.5,
+   "top": 3,
+   "width": 65,
+   "align": "center",
+   "color": "#111111",
+   "size": 4.6,
+   "weight": 800,
+   "lh": 1.2,
+   "text": {
+    "en": "Bonding Dental Implants",
+    "de": "Geklebte Zahnimplantate",
+    "pl": "Implanty cementowane",
+    "ro": "Implanturi dentare cimentate",
+    "ru": "Цементируемые импланты"
+   }
+  },
+  {
+   "left": 32.5,
+   "top": 12.3,
+   "width": 65,
+   "align": "center",
+   "color": "#222222",
+   "size": 3.9,
+   "weight": 400,
+   "lh": 1.44,
+   "text": {
+    "en": "Bonding dental implants (screwless) consist of 3 segments. The dental crown is cemented onto an abutment.",
+    "de": "Geklebte Zahnimplantate (ohne Schraube) bestehen aus 3 Teilen. Die Krone wird auf ein Abutment zementiert.",
+    "pl": "Implanty cementowane (bez śruby) składają się z 3 części. Korona jest cementowana na łączniku.",
+    "ro": "Implanturile cimentate (fără șurub) au 3 componente. Coroana dentară se cimentează pe un bont.",
+    "ru": "Цементируемые импланты (без винта) состоят из 3 частей. Коронка цементируется на абатмент."
+   }
+  },
+  {
+   "left": 32.5,
+   "top": 51.3,
+   "width": 65,
+   "align": "center",
+   "color": "#111111",
+   "size": 4.6,
+   "weight": 800,
+   "lh": 1.43,
+   "text": {
+    "en": "Screw-Retained Dental\nImplants",
+    "de": "Verschraubte\nZahnimplantate",
+    "pl": "Implanty\nprzykręcane",
+    "ro": "Implanturi dentare\ncu șurub",
+    "ru": "Импланты\nс винтовой фиксацией"
+   }
+  },
+  {
+   "left": 32.5,
+   "top": 67.9,
+   "width": 66.5,
+   "align": "center",
+   "color": "#222222",
+   "size": 3.9,
+   "weight": 400,
+   "lh": 1.44,
+   "text": {
+    "en": "Screw-retained dental implants consist of 2 segments. The dental crown is fixed to the implant root with a screw.",
+    "de": "Verschraubte Zahnimplantate bestehen aus 2 Teilen. Die Krone wird mit einer Schraube an der Implantatwurzel befestigt.",
+    "pl": "Implanty przykręcane składają się z 2 części. Korona jest mocowana do korzenia implantu śrubą.",
+    "ro": "Implanturile cu șurub au 2 componente. Coroana dentară se fixează de rădăcina implantului cu un șurub.",
+    "ru": "Импланты с винтовой фиксацией состоят из 2 частей. Коронка крепится к корню импланта винтом."
+   }
+  }
+ ]
+}

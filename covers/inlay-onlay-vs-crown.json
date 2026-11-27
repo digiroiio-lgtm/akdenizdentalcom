@@ -1,0 +1,58 @@
+{
+ "src": "images/blog/inlay-onlay-crown.jpg",
+ "clean": "images/blog/clean/inlay-onlay-vs-crown.webp",
+ "height": 533,
+ "boxes": [
+  {
+   "left": 5.6,
+   "top": 65.4,
+   "width": 29,
+   "align": "center",
+   "color": "#52514e",
+   "size": 4.7,
+   "weight": 800,
+   "lh": 1.15,
+   "text": {
+    "en": "Inlay",
+    "de": "Inlay",
+    "pl": "Wkład",
+    "ro": "Inlay",
+    "ru": "Вкладка"
+   }
+  },
+  {
+   "left": 34.4,
+   "top": 64.6,
+   "width": 27,
+   "align": "center",
+   "color": "#52514e",
+   "size": 4.7,
+   "weight": 800,
+   "lh": 1.15,
+   "text": {
+    "en": "Onlay",
+    "de": "Onlay",
+    "pl": "Nakład",
+    "ro": "Onlay",
+    "ru": "Накладка"
+   }
+  },
+  {
+   "left": 64.5,
+   "top": 62.6,
+   "width": 29,
+   "align": "center",
+   "color": "#52514e",
+   "size": 4.7,
+   "weight": 800,
+   "lh": 1.15,
+   "text": {
+    "en": "Crown",
+    "de": "Krone",
+    "pl": "Korona",
+    "ro": "Coroană",
+    "ru": "Коронка"
+   }
+  }
+ ]
+}

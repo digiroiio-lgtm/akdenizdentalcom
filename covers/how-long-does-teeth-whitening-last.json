@@ -1,0 +1,41 @@
+{
+ "src": "images/blog/how-long-does-teeth-whitening-last.jpg",
+ "clean": "images/blog/clean/how-long-does-teeth-whitening-last.webp",
+ "height": 530,
+ "boxes": [
+  {
+   "left": 41,
+   "top": 8.7,
+   "width": 52.2,
+   "align": "right",
+   "color": "#9a4247",
+   "size": 4.6,
+   "weight": 700,
+   "lh": 1.46,
+   "text": {
+    "en": "How Long Does Teeth\nWhitening Last?",
+    "de": "Wie lange hält\neine Zahnaufhellung?",
+    "pl": "Jak długo trwa\nwybielanie zębów?",
+    "ro": "Cât durează\nalbirea dinților?",
+    "ru": "Сколько держится\nотбеливание зубов?"
+   }
+  },
+  {
+   "left": 51.2,
+   "top": 38.9,
+   "width": 42,
+   "align": "right",
+   "color": "#7d5f5b",
+   "size": 1.85,
+   "weight": 400,
+   "lh": 1.22,
+   "text": {
+    "en": "Many people want a snow-white smile, but it is important to know that teeth whitening results are not permanent. On average, professional teeth whitening results last between 6 months and 2 years; with good oral care and diet, this period can be extended up to 2-3 years. If no care is taken, the old colour can return even within a few months. In summary, the effect of teeth whitening varies depending on the person and habits.",
+    "de": "Viele wünschen sich ein strahlend weißes Lächeln, doch die Ergebnisse einer Zahnaufhellung sind nicht dauerhaft. Im Durchschnitt hält ein professionelles Bleaching zwischen 6 Monaten und 2 Jahren; mit guter Mundpflege und Ernährung lässt sich dieser Zeitraum auf 2–3 Jahre verlängern. Ohne Pflege kann die alte Farbe schon nach wenigen Monaten zurückkehren. Kurz gesagt: Die Wirkung hängt von der Person und ihren Gewohnheiten ab.",
+    "pl": "Wiele osób marzy o śnieżnobiałym uśmiechu, ale warto wiedzieć, że efekty wybielania zębów nie są trwałe. Średnio profesjonalne wybielanie utrzymuje się od 6 miesięcy do 2 lat; przy dobrej higienie jamy ustnej i diecie okres ten można wydłużyć do 2–3 lat. Bez pielęgnacji dawny kolor może wrócić nawet po kilku miesiącach. Podsumowując, efekt wybielania zależy od osoby i jej nawyków.",
+    "ro": "Mulți își doresc un zâmbet alb ca zăpada, dar este important de știut că rezultatele albirii dentare nu sunt permanente. În medie, albirea profesională durează între 6 luni și 2 ani; cu o igienă orală bună și o dietă atentă, perioada se poate prelungi până la 2–3 ani. Fără îngrijire, culoarea veche poate reveni chiar în câteva luni. Pe scurt, efectul albirii variază în funcție de persoană și de obiceiuri.",
+    "ru": "Многие мечтают о белоснежной улыбке, но важно знать, что результат отбеливания зубов не вечен. В среднем профессиональное отбеливание держится от 6 месяцев до 2 лет; при хорошем уходе за полостью рта и правильном питании этот срок можно продлить до 2–3 лет. Без ухода прежний цвет может вернуться уже через несколько месяцев. Итак, эффект отбеливания зависит от человека и его привычек."
+   }
+  }
+ ]
+}
