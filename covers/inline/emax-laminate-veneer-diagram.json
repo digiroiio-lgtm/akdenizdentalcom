@@ -141,11 +141,11 @@
    "weight": 400,
    "lh": 1.2,
    "text": {
-    "en": "Minimal preparation",
-    "de": "Minimale Präparation",
-    "pl": "Minimalne szlifowanie",
-    "ro": "Preparare minimă",
-    "ru": "Минимальная обточка"
+    "en": "No-prep or minimal prep",
+    "de": "No-Prep oder minimal",
+    "pl": "Bez szlifowania lub minimalne",
+    "ro": "Fără șlefuire sau minimă",
+    "ru": "Без обточки или минимально"
    }
   },
   {
