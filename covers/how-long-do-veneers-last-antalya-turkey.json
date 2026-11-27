@@ -1,0 +1,11 @@
+{
+ "src": "images/blog/how-long-do-veneers-last-antalya-turkey.webp",
+ "clean": "images/blog/clean/how-long-do-veneers-last-antalya-turkey.webp",
+ "height": 450,
+ "boxes": [
+  {"left": 58, "top": 12.4, "width": 37.6, "align": "right", "color": "#1a5699", "size": 5.6, "weight": 800, "lh": 1.17,
+   "text": {"en": "How Long\nDo Veneers\nLast", "de": "Wie lange\nhalten\nVeneers", "pl": "Jak długo\nwytrzymują\nlicówki", "ro": "Cât rezistă\nfațetele\ndentare", "ru": "Сколько\nслужат\nвиниры"}},
+  {"left": 58, "top": 48.8, "width": 37.6, "align": "right", "color": "#8f9baa", "size": 4.0, "weight": 600, "lh": 1.16,
+   "text": {"en": "In Antalya,\nTurkey", "de": "in Antalya,\nTürkei", "pl": "w Antalyi,\nTurcja", "ro": "în Antalya,\nTurcia", "ru": "в Анталии,\nТурция"}}
+ ]
+}
