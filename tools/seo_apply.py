@@ -130,8 +130,18 @@ for rel in pages:
     if slug == "thank-you":
         t = re.sub(r'\s*<meta\s+name="robots"[^>]*>', "", t)
         t = t.replace("</title>", '</title>\n\t<meta name="robots" content="noindex, follow">', 1)
+    # leftover German strings on Romanian pages
+    if lang == "ro":
+        t = (t.replace("Montag bis Samstag 9:00 bis 19:00 Uhr", "Luni – sâmbătă, 9:00 – 19:00")
+              .replace("Zirkoniumkronen", "Coroane de zirconiu")
+              .replace("Ablauf der All-on-4 Behandlung", "Etapele tratamentului All-on-4"))
     # broken mailto
     t = t.replace('href="info@akdenizdental.com"', 'href="mailto:info@akdenizdental.com"')
+    # drop invalid JSON-LD blocks (broken legacy "Phone" schema on non-EN pages)
+    def _keep(m):
+        try: json.loads(m.group(1)); return m.group(0)
+        except Exception: return ""
+    t = re.sub(r'\s*<script type="application/ld\+json">(.*?)</script>', _keep, t, flags=re.S)
     # ---- structured data ----
     extra = []
     faq = c.get("faq") or []

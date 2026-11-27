@@ -17,3 +17,9 @@ python3 tools/cfemail.py site
 ## Notlar
 - İletişim formları submit-form.com'a gider; sunucu tarafı kod yok.
 - Canlı sitede de 404 veren birkaç tema dosyası (revolution slider ikonları vb.) klonda da yok.
+
+## SEO / GEO düzenlemeleri
+- `seo-content/out_*.json` — dil başına yeni title, description, H1, H2 ve SSS içerikleri
+- `tools/seo_apply.py` — bu içerikleri + teknik düzeltmeleri siteye uygular (hreflang, canonical, og etiketleri, şema, sitemap, kopya sayfalar)
+- `site/robots.txt` AI tarayıcılarına açık, `site/llms.txt` AI asistanları için klinik özeti
+- Script'i yalnızca orijinal (ham) dosyalar üzerinde bir kez çalıştırın: `python3 tools/seo_apply.py site seo-content`
